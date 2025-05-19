@@ -204,7 +204,7 @@
     },
  "plus": {
        "version": "0",
-       "iconpack": "Solar(Dashed)",
+       "iconpack": "Solar (Dashed)",
        "mentionLineColor": "#B1B1B1",
        "customOverlays": true,
        "icons":{
